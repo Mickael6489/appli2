@@ -1,0 +1,7 @@
+{
+  "name": "MKTools AI",
+  "description": "A comprehensive ecosystem of intelligent applications for students, professionals, and mining engineers.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}

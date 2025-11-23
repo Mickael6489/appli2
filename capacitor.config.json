@@ -1,0 +1,8 @@
+{
+  "appId": "com.mktools.ai",
+  "appName": "MKTools AI",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "https"
+  }
+}
